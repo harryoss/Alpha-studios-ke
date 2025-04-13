@@ -87,7 +87,7 @@
   </section>  <section id="contact" class="section contact">
     <h2>Contact Us</h2>
     <p><strong>Phone / WhatsApp:</strong> <a href="tel:+254740460315">0740460315</a></p>
-    <p><strong>Instagram:</strong> <a href="https://instagram.com/alpha_photography032" target="_blank">@alpha_photography032</a> / <a href="https://instagram.com/alphaeventphotos" target="_blank">@alphaeventphotos</a></p>
+    <p><strong>Instagram:</strong> <a href="https://instagram.com/alpha_photography032" target="_blank">@alpha_studios_ke</a> / <a target="_blank">@alphaeventphotos</a></p>
     <p><strong>Location:</strong> Nakuru, Kunste</p>
   </section>  <footer class="footer">
     <p>&copy; 2025 Alpha Studios KE. All Rights Reserved.</p>
